@@ -1,0 +1,23 @@
+{
+  "name": "eventos_calima",
+  "version": "1.0.0",
+  "description": "web design for eventos calima website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryTabima/eventos-calima.git"
+  },
+  "author": "Henry Tabima Giraldo <henrytabima.dev@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/HenryTabima/eventos-calima/issues"
+  },
+  "homepage": "https://github.com/HenryTabima/eventos-calima#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
